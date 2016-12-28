@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome"
+date:   2016-12-28 14:01:02 +0100
+categories: meta
+---
+This is my first post. Stay tuned for writings on topics such as minimalism, stoicism, technology and business.
