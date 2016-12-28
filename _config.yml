@@ -24,6 +24,7 @@ github_username:  yhoiseth
 google_analytics: UA-65884049-1
 disqus:
   shortname: yhoiseth
+permalink: /:slug
 
 # Build settings
 markdown: kramdown

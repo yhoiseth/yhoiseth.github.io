@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 My name is Yngve Høiseth. I live in Oslo, Norway and work at [Netmaking](https://netmaking.no/), a web agency.
