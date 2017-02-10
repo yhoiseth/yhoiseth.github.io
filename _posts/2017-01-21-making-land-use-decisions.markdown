@@ -38,7 +38,7 @@ So, deciding whether Alice should be allowed to build is not that easy. Now, let
 ## Government decides
 
 This can be done in many different ways. Typically, there is some combination of area-specific rules (_zoning laws_), general rules, and a consideration of the capacity of public infrastructure in the area. In addition, there are other external effects of building, such as climate change.
- 
+
 An example of a zoning law could be "In this area, you can build residential or commercial buildings, but no higher than two floors".
 
 "You're never allowed to build closer than five meters to your neighbor's land" could be an example of a general rule.
@@ -69,17 +69,17 @@ I won't go into detail on these arguments.
 An entirely different mechanism involves leaving the decision to the market. As a starting point, there are no rules against building. Let's assume that Alice goes ahead and raises her planned building.
 
 This makes the value of Bob's house drop, say from 10 (billion lire or whatever) to 5.
- 
+
 As explained above, this is clearly an infringement on Bob's property rights. What can he do in this case?
 
 ### Lawyer up, baby
 
-This is where the help from government enters the picture. Bob can file a lawsuit against Alice. He may require her to compensate him for the reduced value of his house (5) plus pay his bills (say, 2). In this case, the courts should probably side with Bob, telling Alice to pay him.
- 
+This is where the help from government enters the picture. Bob can file a lawsuit against Alice. He may require her to compensate him for the reduced value of his house (5) plus pay his legal bills (say, 2). In this case, the courts should probably side with Bob, telling Alice to pay him.
+
 But this is really inefficient, isn't it? Every time someone wants to build something, they're going to court?
 
 I think there would be some lawsuits, but relatively few. Imagine if Alice, instead of just building, offered Bob a compensation beforehand. With Alice's offer as a starting point, perhaps they could be able to find common ground. Let's say that Alice agrees to pay Bob 6. That's more than his house loses in value (so in theory a net gain for him), but still less than what Alice would have had to pay if she built and Bob sued.
-  
+
 Over time, some rules of thumb for resolving these kinds of disputes would probably arise.
 
 ### Pros and cons
@@ -122,6 +122,6 @@ Yes, because market actors ultimately are people, they are irrational. But voter
 
 ## Final words
 
-In the end, this is all an empirical question. We should do whatever works best, i.e. results in the greatest prospering of conscious creatures according to their degree of consciousness. (Hopefully, I'll get around to writing about this moral idea in a later article.) 
+In the end, this is all an empirical question. We should do whatever works best, i.e. results in the greatest prospering of conscious creatures according to their degree of consciousness. (Hopefully, I'll get around to writing about this moral idea in a later article.)
 
 However, it's incredibly difficult to figure out whether something would work without trying it. It would be interesting to see a randomized controlled experiment on government versus market land use decisions.
